@@ -4,7 +4,7 @@ email: sygjiang@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Homepage for Shiyang Jiang
 
-baseurl: "/digitalshiyang.github.io" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 domain: digitalshiyang.github.io
 url: "https://digitalshiyang.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: digitalshiyang
