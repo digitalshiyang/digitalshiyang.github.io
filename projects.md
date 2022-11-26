@@ -9,17 +9,17 @@ date:   2022-11-26
 
 # blogging
 
-[Tomorrow, Today](https://digitalshiyang.github.io/tomorrowtoday/)<br>
+*[Tomorrow, Today](https://digitalshiyang.github.io/tomorrowtoday/)*<br>
 Collection of original writings, translations, reviews | active 2022 -
 
-[The Hitchihiker's Guide for Wasting Time (光阴虚度指南)](https://jatlarge.com/tags/光阴虚度指南/page/5/)<br>
+*[The Hitchihiker's Guide for Wasting Time (光阴虚度指南)](https://jatlarge.com/tags/光阴虚度指南/page/5/)*<br>
 One half of the contributors | active 2017 - 
 
 ---
 
 # filmmaking
 
-*Intermission*<br>
+Intermission*<br>
 Director | 2019 | 11 minutes<br>
 A found footage film about love and analog film projection.
 
