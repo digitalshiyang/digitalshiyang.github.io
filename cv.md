@@ -1,3 +1,14 @@
+---
+layout: page
+title: CV
+lang: en
+cover_url: 
+cover_meta: >
+  
+navbar: true
+position: 250
+---
+
 [PDF](https://digitalshiyang.github.io/assets/shiyangjiang_cv.pdf)
 
 ---
