@@ -1,4 +1,8 @@
 ---
-layout: home
-title: Articles
+layout: page
+title: Home
 ---
+
+My cat
+
+![cat](https://digitalshiyang.github.io/assets/home.jpg)
