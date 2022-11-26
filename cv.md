@@ -2,9 +2,6 @@
 layout: page
 title: CV
 lang: en
-cover_url: 
-cover_meta: >
-  
 navbar: true
 position: 250
 ---
@@ -15,7 +12,7 @@ position: 250
 
 # education
 
-MA, [Moving Image Archiving and Preservation @ New York University]()<br>
+MA, [Moving Image Archiving and Preservation @ New York University](https://tisch.nyu.edu/cinema-studies/miap)<br>
 New York, NY | 2019-2021
 
 BFA, Theatre, Film, Television and Literature @ Xiamen University<br>
@@ -34,7 +31,7 @@ Lund, Sweden | 2018
 [Media Ecology Project @ Dartmouth College](https://mediaecology.dartmouth.edu/wp/), July 2021 - June 2022<br>
 Metadata Archivist | Remote
 
-[The Flaherty](), July 2021 - December 2021<br>
+[The Flaherty](https://theflaherty.org), July 2021 - December 2021<br>
 Archivist | Brooklyn, NY
 
 NYU Cinema Studies Archives, August 2019 - May 2021<br>
@@ -47,17 +44,17 @@ Conference Assistant | Xiamen, CH
 
 # internships
 
-[Smithsonian’s Center for Folklife](), July 2021 - September 2021<br>
-Raplh Rinzler Archive Collection Care Intern | Remote
+[Archives @ Smithsonian Center for Folklife](https://folklife.si.edu/archives), July 2021 - September 2021<br>
+Collections Care Initiative Intern | Remote
 
-[The Flaherty](), September 2020 - December 2020<br>
+[The Flaherty](https://theflaherty.org), September 2020 - December 2020<br>
 Archive Intern | Brooklyn, NY
 
 [Media Ecology Project](https://mediaecology.dartmouth.edu/wp/), June 2020 - August 2020<br>
 Archive Intern | Remote
 
-[Metropolitian New York Library Council](), January 2020 - May 2020<br>
-[ASCI]() Project Archive Intern | New York, NY
+[Metropolitian New York Library Council](https://metro.org), January 2020 - May 2020<br>
+[ASCI](http://asci.org) Project Archive Intern | New York, NY
 
 XMU Film Archive Study Center, April 2018 - June 2019<br>
 Archive Intern | Xiamen, CH

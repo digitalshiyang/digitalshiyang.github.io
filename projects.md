@@ -4,7 +4,7 @@ title: Projects
 lang: en
 navbar: true
 position: 100
-date:   2022-11-24
+date:   2022-11-26
 ---
 
 # blogging
@@ -12,7 +12,7 @@ date:   2022-11-24
 [Tomorrow, Today](https://digitalshiyang.github.io/tomorrowtoday/)<br>
 Collection of original writings, translations, reviews | active 2022 -
 
-[Hitchihiker's Guide to Wasting Time (光阴虚度指南)](https://jatlarge.com/tags/光阴虚度指南/page/5/)<br>
+[The Hitchihiker's Guide for Wasting Time (光阴虚度指南)](https://jatlarge.com/tags/光阴虚度指南/page/5/)<br>
 One half of the contributors | active 2017 - 
 
 ---
